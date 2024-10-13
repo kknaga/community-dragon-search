@@ -23,7 +23,7 @@ export const cardDefinitions = {
       id: "main",
       content: (item: Item) => (
         <div className='item'>
-          {item.isImage === 'yes' && <img src={getCDPath(item.path)} width=" 150" height="150" alt={item.name} />}
+          {item.isImage === 'yes' && <img src={getCDPath(item.path)} height="150" alt={item.name} />}
           <div>
             <div><small>{item.path}</small></div>
           </div>
