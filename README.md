@@ -1,3 +1,9 @@
+## Community Dragon Search
+
+Search UI for CommunityDraogn project.
+
+UI: https://kknaga.github.io/community-dragon-search/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
